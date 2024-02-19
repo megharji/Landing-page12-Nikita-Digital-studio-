@@ -1,0 +1,275 @@
+@media (width <= 400px){
+    .kkj{
+        margin-top: 20px;
+        margin-bottom: 50px;
+        padding-left: 50px;
+        font-size: 17px;
+    }
+    .ppy{
+        padding-top: 100px;
+        font-size: 40px;
+        text-align: center;
+        background-position: 40%;
+        height: 300px;
+    }
+    .kkl{
+        background-position: 70%;
+        font-size: 40px;
+        height: 300px;
+        padding-top: 95px;
+        text-align: center;
+    }
+    .headerset h1{
+        text-align: center;
+        font-size: 50px;
+        color: rgb(230, 237, 237);
+        margin-top: 250px;
+    }
+    .bggi{
+        height: 700px;
+        background-position:58%;
+    }
+    .ddf{
+        font-size: 60px;   
+    }
+    .khg{
+        font-size: 20px; 
+    }
+    .uui{
+        height: 300px;
+        padding-top: 68px;
+        background-position: 85%;
+        font-size: 70px;
+    }
+    .ssu{
+        width: 50px;
+    }
+    .googlemap{
+        width: 100%;
+        height: 100%;
+        padding-left: 20px;
+        padding-bottom: 40px;
+    }
+    .column{
+        width: 50%;
+    }
+}
+
+
+@media (width <= 300px){
+    .kkj{
+        font-size: 13px;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        padding-left: 30px;
+
+    }
+    .ppy{
+        background-position: 42%;
+    }
+    
+    .uui{
+        background-position: 85%;
+    }
+    .ssu{
+        width: 40px;
+    }
+    .googlemap{
+        width: 100%;
+        height: 100%;
+    }
+    .kkl{
+        background-position: 65%;
+    }
+}
+
+
+@media (min-width: 400px) and (max-width:469px){
+    .kkj{
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        padding-left: 30px;
+    }
+    .kkl{
+        background-position: 70%;
+        height: 300px;
+        font-size: 48px;
+        padding-top: 90px;
+    }
+    .ppy{
+        background-position: 40%;
+        height: 300px;
+        font-size: 48px;
+        padding-top: 90px;
+    }
+    .uui{
+        padding-top: 140px;
+        height: 300px;
+        font-size: 80px;
+        background-position: 83%;
+        padding-top: 30px;
+    }
+    .headerset h1{
+        text-align: center;
+        font-size: 80px;
+        margin-top: 200px;
+    }
+    .bggi{
+        height: 1000px; 
+    }
+    .ssu{
+        width: 60px;
+    }
+    .googlemap{
+        width: 100%;
+        height: 100%;
+        padding-left: 60px;
+        padding-bottom: 40px;
+    }
+    .column{
+        width: 50%;
+    }
+    
+    
+}
+
+
+
+@media (min-width: 470px) and (max-width:700px){
+    .kkl{
+        background-position: 75%;
+        font-size: 60px;
+        padding-top: 130px;
+
+    }
+    .bggi{
+        background-position: 60%;
+        height: 1000px; 
+        font-size: 10px;
+    }
+    .kkj{
+        font-size: 23px;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        padding-left: 70px;
+    }
+    
+    .ppy{
+        background-position: 40%;
+        font-size: 50px;
+    }
+    .uui{
+        padding-top: 140px;
+        font-size: 90px;
+        background-position: 85%;
+    }
+    .ssu{
+        width: 80px;   
+    }
+    .googlemap{
+        width: 100%;
+        height: 100%;
+        padding-left: 100px;
+        padding-bottom: 40px;
+    }
+    .column{
+    width: 50%;
+    }
+    
+}
+
+@media (min-width: 700px) and (max-width:769px){
+    .kkj{
+        font-size: 30px;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        padding-left: 110px;
+    }
+    .card-grp{
+        width: 480px;
+        height: 390px;
+        margin-left: 40px;
+        align-items: center;
+    }
+    .googlemap{
+        width: 100%;
+        height: 100%;
+        padding-left: 110px;
+        padding-bottom: 40px;
+    }
+    .bggi{
+        font-size: 17px;
+    }
+    .column{
+        width: 50%;
+    }
+    .uui{
+        background-position: 80%;
+    }
+    .kkl{
+        background-position: 80%;
+    }
+    .ppy{
+        background-position: 40%;
+    }
+
+}
+
+
+
+@media (min-width: 770px) and (max-width:1000px){
+    .kkj{
+        font-size: 30px;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        padding-left: 110px;
+    }
+    .kkl{
+        background-position: 77%;
+    }
+    .ppy{
+        background-position: 45%;
+    }
+    .uui{
+        background-position: 90%;
+    }
+    .bggi{
+        font-size: 20px;
+    }
+    .ssu{
+        width: 70px;      
+    }
+    .googlemap{
+        width: 400px;
+        height: 400px;
+    }
+    .column{
+        width: 50%;
+    }
+    
+}
+
+@media (min-width: 1000px) and (max-width:1440px){
+    .kkj{
+        font-size: 35px;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        padding-left: 230px;
+    }
+    .bggi{
+        font-size: 20px;
+    }
+    .ssu{
+        width: 80px;
+    }
+    .ppy{
+        background-position: 40%;
+    }
+    .kkl{
+        background-position: 80%;
+    }
+    .uui{
+        background-position: 80%;
+    }
+}
